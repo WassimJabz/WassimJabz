@@ -66,7 +66,9 @@
 
 ---
 
-Feel free to explore my [GitHub repositories](https://github.com/) for more examples of my work!
+# 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wassim-jabbour) 
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-%234285F4.svg?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=xuz1qyQAAAAJ&hl=en)
 
 <!--
 **WassimJabz/wassimjabz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
