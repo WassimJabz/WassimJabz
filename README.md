@@ -1,8 +1,9 @@
 ## Welcome to my Github Repository 👋
 
 <p>
-  <img alt="WassimJabz's GitHub Profile README" src="https://github.com/WassimJabz/wassimjabz/blob/main/ascii.png" style="width:auto; height:400px;">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=wassimjabz&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" style="width:auto; height:400px;"/>
+  <img alt="WassimJabz's GitHub Profile README" src="https://github.com/WassimJabz/wassimjabz/blob/main/ascii.png" style="width:auto; height:462px;">
+  <img alt="WassimJabz's GitHub Profile README" src="https://github.com/WassimJabz/wassimjabz/blob/main/terminal.gif" style="width:auto; height:462px;">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=wassimjabz&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" style="width:auto; height:462px;"/>
 </p>
 
 # 👨‍💻 My Tech Stack
