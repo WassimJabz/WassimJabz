@@ -1,4 +1,4 @@
-## Welcome to my Github Repository 👋
+# Welcome to my Github Repository 👋
 
 <table class="Table">
     <tr>
@@ -7,6 +7,14 @@
         <td> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=wassimjabz&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" style="width:auto; height:350px;"/> </td>
     </tr>
 </table>
+
+# Research Experience and Publications
+- [Dynamic Layer Selection in Decoder-Only Transformers](https://arxiv.org/abs/2410.20022) - *NeurIPS ENLSP-IV 2024 Workshop*
+- [Scavenging Hyena: Distilling Transformers into Long Convolution Models](https://icml.cc/virtual/2024/39608) - *ICML ES-FoMo-II 2024 Workshop*
+- [Dynamic LLM Augmentation for Query-Cost Optimization](https://bit.ly/DyLLM-paper) ([Poster](https://bit.ly/DyLLM-poster))
+- [Comparative Analysis of Training Methods for 1v1 Reinforcement Learning (RL) Environments](https://bit.ly/1v1RLTraining-paper)
+- [Unsupervised Domain Adaptation for Chessboard Recognition](https://arxiv.org/abs/2410.15206)
+
 
 # 👨‍💻 My Tech Stack
 
